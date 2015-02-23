@@ -1,1 +1,1 @@
-# MQL4
+# MQL4 , Simple Strategies
